@@ -26,7 +26,7 @@ That's it. Tkinter comes built into Python.
 ## 🚀 Getting Started
 
 
-Run the app**
+Run the app
 ```bash
 python password_checker.py
 ```
